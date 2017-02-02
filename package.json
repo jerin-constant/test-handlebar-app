@@ -1,0 +1,26 @@
+{
+  "name": "test-handlebar-app-01",
+  "version": "1.0.0",
+  "description": "Test sample handlebar app in git repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerin-constant/test-handlebar-app.git"
+  },
+  "author": "Jerin.Constant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerin-constant/test-handlebar-app/issues"
+  },
+  "homepage": "https://github.com/jerin-constant/test-handlebar-app#readme",
+  "devDependencies": {
+    "express": "^4.14.1"
+  },
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

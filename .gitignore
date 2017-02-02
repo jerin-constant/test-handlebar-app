@@ -1,2 +1,3 @@
 #git ignore files/folder list
 node_modules/
+bower_components/
